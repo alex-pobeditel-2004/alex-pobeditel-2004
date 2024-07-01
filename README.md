@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![alt text](https://api.standoff365.com/api/authservice/user/image/dingobongo)
+![alt text](https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/410.svg)
